@@ -1,0 +1,49 @@
+/* Add this CSS to your styles.css or in a style tag in your component */
+
+main {
+    background-color: #f8f9fa;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .container-fluid {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card {
+    margin-top: 20px;
+  }
+  
+  .card-header {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  /* Optional: Add more styling for form elements if needed */
+  
+  label {
+    font-weight: bold;
+  }
+  
+  /* Adjust the styling of the form elements as needed */
+  
